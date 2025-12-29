@@ -1,0 +1,1 @@
+"Dodano nową sekcję nawigacji i opis celów w pliku main.html."
