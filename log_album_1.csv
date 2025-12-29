@@ -1,0 +1,24 @@
+* 04c96f0 2025-12-29 Rozbudowa readme o naglowki i liste| 
+|  readme.md | 10 +++++++++-
+|  1 file changed, 9 insertions(+), 1 deletion(-)
+
+* 8b06238 2025-12-29 Opis amend w readme| 
+|  readme.md | 3 ++-
+|  1 file changed, 2 insertions(+), 1 deletion(-)
+
+* 4504e08 2025-12-29 Dodanie info o pogodzie| 
+|  info.txt   | 1 +
+|  main1.html | 2 +-
+|  2 files changed, 2 insertions(+), 1 deletion(-)
+
+*   857ba74 2025-12-29 Merge branch 'feature2'
+|\  
+| * 1eaa8dc 2025-12-29 Dodanie stylow CSS
+|/  |   
+|    srcpgstyle.css | 12 ++++++++++++
+|    1 file changed, 12 insertions(+)
+
+* b8a2fdc 2025-12-29 Akutalizacja nawigacji i tresci HTML  
+   main1.html | 10 ++++++++++
+   readme.md  |  1 +
+   2 files changed, 11 insertions(+)
