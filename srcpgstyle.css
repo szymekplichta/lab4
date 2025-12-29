@@ -1,0 +1,12 @@
+body {
+    background-color: #f0f8ff; /* Zmiana tła dokumentu */
+    font-family: Verdana, sans-serif;
+}
+nav, footer {
+    background-color: #808080; /* Tło dla nav i footer */
+    min-width: 100%;           /* Warunek minimalnej szerokości */
+    min-height: 50px;          /* Warunek minimalnej wysokości */
+    padding: 20px;
+    color: white;
+}
+/* Reszta stylów... */
